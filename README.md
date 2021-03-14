@@ -1,4 +1,4 @@
-# This is a repo for practicing the DS projects from Datacamp
+# This is a updated repo for practicing the DS projects from Datacamp
 
 There are projects in the following Branches:
 * Analyzing the International Debt
